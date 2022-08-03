@@ -1,1 +1,3 @@
 learning school file create
+
+git remote add origin https://github.com/barendrostore/be-learn.git
